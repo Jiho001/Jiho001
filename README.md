@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=60C738&text=Jiho%20the%20Hippo&fontColor=2C8E39&fontAlignY=36)
 
 <!--
 **Jiho001/Jiho001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
